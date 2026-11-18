@@ -14,8 +14,8 @@
 |---|---|---:|
 | 01 | [働く人のルール案内エージェントを作成する](LabManual/standard-01-create-agents.md) | 約45分 |
 | 02 | [トピックと変数による会話の制御](LabManual/standard-02-manage-topics.md) | 約45分 |
-| 03 | [ナレッジの追加と回答の確認](LabManual/standard-03-knowledge.md) | 約60分 |
-| 04 | [ワークフローをツールとして使用](LabManual/standard-04-workflow-tools.md) | 約60分 |
+| 03 | [ナレッジの追加と回答の確認](LabManual/standard-03-knowledge.md) | 約45分 |
+| 04 | [ワークフローをツールとして使用](LabManual/standard-04-workflow-tools.md) | 約45分 |
 
 ## 演習用ファイル
 

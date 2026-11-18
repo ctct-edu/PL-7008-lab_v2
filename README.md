@@ -19,10 +19,10 @@
 
 ## 演習用ファイル
 
-演習03と04で使用するファイルは、[Allfiles](Allfiles/) にあります。演習では、OneDriveに用意されたファイルを使用します。
+演習03と04で使用するファイルは、[Allfiles](Allfiles/) にあります。
 
-- 演習03：[経費規程](Allfiles/Expenses_Policy_ja.txt)、[経費申請データ（Excel）](Allfiles/Expenses_sample.xlsx)、[CSV版](Allfiles/Expenses_sample.csv)
-- 演習04：[運用タスク（Excel）](Allfiles/Operations_tasks.xlsx)、[CSV版](Allfiles/Operations_tasks.csv)
+- 演習03：[経費規程](Allfiles/Expenses_Policy_ja.pdf)、[経費申請データ（Excel）](Allfiles/Expenses_sample.xlsx)
+- 演習04：[運用タスク（Excel）](Allfiles/Operations_tasks.xlsx)
 - [サンプルデータの定義](Allfiles/README.md)
 
 GitHubでファイルをダウンロードする場合は、ファイルを開いて **Download raw file** を選択します。一式を取得する場合は、リポジトリの **Code → Download ZIP** を選択します。
@@ -37,4 +37,4 @@ GitHubでファイルをダウンロードする場合は、ファイルを開�
 
 ## 参考情報
 
-本教材は [MicrosoftLearning/mslearn-copilotstudio](https://github.com/MicrosoftLearning/mslearn-copilotstudio) の演習を基に日本語向けに改訂したものです。原典のライセンスは [LICENSE](LICENSE) を参照してください。
+本教材は [MicrosoftLearning/mslearn-copilotstudio](https://github.com/MicrosoftLearning/mslearn-copilotstudio) の演習を基に日本語向けに改訂したものです。
